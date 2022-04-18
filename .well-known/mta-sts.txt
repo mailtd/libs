@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx.messager.at
+mx: hi.mail.td
+mx: in.mail.td
 max_age: 86400
