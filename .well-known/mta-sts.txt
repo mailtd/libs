@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: none
 mx: hi.mail.cx
 max_age: 86400
