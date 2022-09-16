@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: hi.mail.td
-mx: in.mail.td
+mx: hi.mail.cx
+mx: in.mail.cx
 max_age: 86400
